@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.core.message.MarshallerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-04-19T12:14:48" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="0.313">
+  <properties/>
+  <testcase name="getBaseEnvelopeTest" classname="bisq.core.message.MarshallerTest" time="0.313"/>
+  <system-out><![CDATA[12:14:48.302 [Test worker] INFO  b.c.m.MarshallerTest - nonce: 100
+ 
+12:14:48.304 [Test worker] INFO  b.c.m.MarshallerTest - request_nonce: 1000
+ 
+12:14:48.313 [Test worker] INFO  b.c.m.MarshallerTest - message: nonce: 100
+ 
+12:14:48.314 [Test worker] INFO  b.c.m.MarshallerTest - 3 = true 4 = false 
+12:14:48.396 [Test worker] INFO  b.c.m.MarshallerTest - ping {
+  nonce: 100
+}
+ 
+12:14:48.398 [Test worker] INFO  b.c.m.MarshallerTest - pong {
+  request_nonce: 1000
+}
+ 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

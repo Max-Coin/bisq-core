@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.core.btc.wallet.BtcNodeConverterTest" tests="4" skipped="1" failures="0" errors="0" timestamp="2018-04-19T12:14:45" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="0.202">
+  <properties/>
+  <testcase name="testConvertWithTor" classname="bisq.core.btc.wallet.BtcNodeConverterTest" time="0.19"/>
+  <testcase name="testConvertOnionHostOnFailure" classname="bisq.core.btc.wallet.BtcNodeConverterTest" time="0.008"/>
+  <testcase name="testConvertOnionHost" classname="bisq.core.btc.wallet.BtcNodeConverterTest" time="0.002"/>
+  <testcase name="testConvertClearNode" classname="bisq.core.btc.wallet.BtcNodeConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[12:14:46.130 [Test worker] ERROR b.c.b.w.BtcNodeConverter - Failed to convert node java.net.UnknownHostException: null
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

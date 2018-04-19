@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.core.btc.wallet.WalletNetworkConfigTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-04-19T12:14:45" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="0.685">
+  <properties/>
+  <testcase name="testProposePeersWhenPeersPresent" classname="bisq.core.btc.wallet.WalletNetworkConfigTest" time="0.477"/>
+  <testcase name="testProposePeersWhenProxyNotPresentAndNoPeers" classname="bisq.core.btc.wallet.WalletNetworkConfigTest" time="0.005"/>
+  <testcase name="testProposePeersWhenProxyPresentAndNoPeers" classname="bisq.core.btc.wallet.WalletNetworkConfigTest" time="0.203"/>
+  <system-out><![CDATA[12:14:45.688 [Test worker] INFO  b.c.b.w.WalletNetworkConfig - You connect with peerAddresses: [Mock for PeerAddress, hashCode: 989015983] 
+12:14:45.718 [Test worker] WARN  b.c.b.w.WalletNetworkConfig - You don't use tor and use the public Bitcoin network and are exposed to privacy issues caused by the broken bloom filters. See https://bisq.network/blog/privacy-in-bitsquare/ for more info. It is recommended to use Tor and the provided nodes. 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

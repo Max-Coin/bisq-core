@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.core.network.p2p.seed.ImmutableSetDecoratorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-04-19T12:14:41" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="0.01">
+  <properties/>
+  <testcase name="testAdd" classname="bisq.core.network.p2p.seed.ImmutableSetDecoratorTest" time="0.0"/>
+  <testcase name="testClear" classname="bisq.core.network.p2p.seed.ImmutableSetDecoratorTest" time="0.001"/>
+  <testcase name="testBackingCollection" classname="bisq.core.network.p2p.seed.ImmutableSetDecoratorTest" time="0.001"/>
+  <testcase name="testRemoveWithIterator" classname="bisq.core.network.p2p.seed.ImmutableSetDecoratorTest" time="0.0"/>
+  <testcase name="testRemove" classname="bisq.core.network.p2p.seed.ImmutableSetDecoratorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.asset.coins.KotoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-04-19T12:15:08" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="0.005">
+  <properties/>
+  <testcase name="testValidAddresses" classname="bisq.asset.coins.KotoTest" time="0.001"/>
+  <testcase name="testInvalidAddresses" classname="bisq.asset.coins.KotoTest" time="0.0"/>
+  <testcase name="testBlank" classname="bisq.asset.coins.KotoTest" time="0.0"/>
+  <testcase name="testPresenceInAssetRegistry" classname="bisq.asset.coins.KotoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+å12:14:45.688 [Test worker] INFO  b.c.b.w.WalletNetworkConfig - You connect with peerAddresses: [Mock for PeerAddress, hashCode: 989015983] 
+≥12:14:45.718 [Test worker] WARN  b.c.b.w.WalletNetworkConfig - You don't use tor and use the public Bitcoin network and are exposed to privacy issues caused by the broken bloom filters. See https://bisq.network/blog/privacy-in-bitsquare/ for more info. It is recommended to use Tor and the provided nodes. 
+w12:14:46.130 [Test worker] ERROR b.c.b.w.BtcNodeConverter - Failed to convert node java.net.UnknownHostException: null
+
+*+[12:14:46.261 [Test worker] ERROR b.c.p.ProtoUtil - Invalid value for enum State: PB_ERROR 
+0/C12:14:48.302 [Test worker] INFO  b.c.m.MarshallerTest - nonce: 100
+0/ 
+0/L12:14:48.304 [Test worker] INFO  b.c.m.MarshallerTest - request_nonce: 1000
+0/ 
+0/L12:14:48.313 [Test worker] INFO  b.c.m.MarshallerTest - message: nonce: 100
+0/ 
+0/L12:14:48.314 [Test worker] INFO  b.c.m.MarshallerTest - 3 = true 4 = false 
+0/?12:14:48.396 [Test worker] INFO  b.c.m.MarshallerTest - ping {
+0/  nonce: 100
+0/}
+0/ 
+0/?12:14:48.398 [Test worker] INFO  b.c.m.MarshallerTest - pong {
+0/  request_nonce: 1000
+0/}
+0/ 
+24Å12:14:52.269 [Test worker] WARN  b.c.o.OpenOfferManager - editOpenOfferStart called for an offer which is already in edit mode. 

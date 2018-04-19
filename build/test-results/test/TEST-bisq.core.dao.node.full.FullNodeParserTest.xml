@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.core.dao.node.full.FullNodeParserTest" tests="2" skipped="2" failures="0" errors="0" timestamp="2018-04-19T12:15:05" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="0.0">
+  <properties/>
+  <testcase name="testParseBlocks" classname="bisq.core.dao.node.full.FullNodeParserTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testIsBsqTx" classname="bisq.core.dao.node.full.FullNodeParserTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

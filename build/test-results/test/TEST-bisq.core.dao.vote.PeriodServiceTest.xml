@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.core.dao.vote.PeriodServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-04-19T12:15:05" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="0.012">
+  <properties/>
+  <testcase name="getStartBlockOfPhaseTest" classname="bisq.core.dao.vote.PeriodServiceTest" time="0.004"/>
+  <testcase name="isInCurrentCycleTest" classname="bisq.core.dao.vote.PeriodServiceTest" time="0.0"/>
+  <testcase name="getNumOfStartedCyclesTest" classname="bisq.core.dao.vote.PeriodServiceTest" time="0.0"/>
+  <testcase name="getCompensationRequestEndBlockTest" classname="bisq.core.dao.vote.PeriodServiceTest" time="0.001"/>
+  <testcase name="getNumOfCompletedCyclesTest" classname="bisq.core.dao.vote.PeriodServiceTest" time="0.001"/>
+  <testcase name="calculatePhaseTest" classname="bisq.core.dao.vote.PeriodServiceTest" time="0.0"/>
+  <testcase name="getCompensationRequestStartBlockTest" classname="bisq.core.dao.vote.PeriodServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

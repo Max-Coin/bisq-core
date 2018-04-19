@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.core.payment.ReceiptPredicatesTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-04-19T12:14:57" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="2.102">
+  <properties/>
+  <testcase name="testIsMatchingCurrency" classname="bisq.core.payment.ReceiptPredicatesTest" time="1.547"/>
+  <testcase name="testIsSepaRelated" classname="bisq.core.payment.ReceiptPredicatesTest" time="0.338"/>
+  <testcase name="testIsMatchingCountryCodes" classname="bisq.core.payment.ReceiptPredicatesTest" time="0.085"/>
+  <testcase name="testIsSameOrSpecificBank" classname="bisq.core.payment.ReceiptPredicatesTest" time="0.121"/>
+  <testcase name="testIsEqualPaymentMethods" classname="bisq.core.payment.ReceiptPredicatesTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

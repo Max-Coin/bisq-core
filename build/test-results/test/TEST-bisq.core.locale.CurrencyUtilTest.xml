@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.core.locale.CurrencyUtilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-04-19T12:14:56" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="0.205">
+  <properties/>
+  <testcase name="testGetTradeCurrency" classname="bisq.core.locale.CurrencyUtilTest" time="0.205"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

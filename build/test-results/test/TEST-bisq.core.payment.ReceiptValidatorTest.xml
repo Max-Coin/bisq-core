@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.core.payment.ReceiptValidatorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-04-19T12:15:02" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="2.562">
+  <properties/>
+  <testcase name="testIsValidWhenCurrencyDoesNotMatch" classname="bisq.core.payment.ReceiptValidatorTest" time="1.898"/>
+  <testcase name="testIsValidWhenNotCountryBasedAccount" classname="bisq.core.payment.ReceiptValidatorTest" time="0.128"/>
+  <testcase name="testIsValidWhenNotMatchingCodes" classname="bisq.core.payment.ReceiptValidatorTest" time="0.004"/>
+  <testcase name="testIsValidWhenSepaRelated" classname="bisq.core.payment.ReceiptValidatorTest" time="0.004"/>
+  <testcase name="testIsValidWhenSpecificBankAccount" classname="bisq.core.payment.ReceiptValidatorTest" time="0.141"/>
+  <testcase name="testIsValidWhenSpecificBankAccountAndOfferRequireSpecificBank" classname="bisq.core.payment.ReceiptValidatorTest" time="0.007"/>
+  <testcase name="testIsValidWhenSameBankAccountAndOfferRequireSpecificBank" classname="bisq.core.payment.ReceiptValidatorTest" time="0.111"/>
+  <testcase name="testIsValidWhenSameBankAccount" classname="bisq.core.payment.ReceiptValidatorTest" time="0.003"/>
+  <testcase name="testIsValidWhenNationalBankAccount" classname="bisq.core.payment.ReceiptValidatorTest" time="0.113"/>
+  <testcase name="testIsValidWhenWesternUnionAccount" classname="bisq.core.payment.ReceiptValidatorTest" time="0.146"/>
+  <testcase name="testIsValidWhenWesternIrregularAccount" classname="bisq.core.payment.ReceiptValidatorTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

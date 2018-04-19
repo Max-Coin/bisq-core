@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.core.offer.OpenOfferManagerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-04-19T12:14:50" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="2.135">
+  <properties/>
+  <testcase name="testStartEditOfferForActiveOffer" classname="bisq.core.offer.OpenOfferManagerTest" time="2.072"/>
+  <testcase name="testStartEditOfferForDeactivatedOffer" classname="bisq.core.offer.OpenOfferManagerTest" time="0.053"/>
+  <testcase name="testStartEditOfferForOfferThatIsCurrentlyEdited" classname="bisq.core.offer.OpenOfferManagerTest" time="0.01"/>
+  <system-out><![CDATA[12:14:52.269 [Test worker] WARN  b.c.o.OpenOfferManager - editOpenOfferStart called for an offer which is already in edit mode. 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

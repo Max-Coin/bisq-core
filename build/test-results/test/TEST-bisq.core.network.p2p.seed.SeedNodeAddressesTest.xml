@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bisq.core.network.p2p.seed.SeedNodeAddressesTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-04-19T12:14:41" hostname="ubuntu-s-2vcpu-4gb-lon1-01" time="0.07">
+  <properties/>
+  <testcase name="testCollector" classname="bisq.core.network.p2p.seed.SeedNodeAddressesTest" time="0.015"/>
+  <testcase name="testFromEmptyString" classname="bisq.core.network.p2p.seed.SeedNodeAddressesTest" time="0.006"/>
+  <testcase name="testExcludeByFullAddress" classname="bisq.core.network.p2p.seed.SeedNodeAddressesTest" time="0.024"/>
+  <testcase name="testFromString" classname="bisq.core.network.p2p.seed.SeedNodeAddressesTest" time="0.005"/>
+  <testcase name="testExcludeByHost" classname="bisq.core.network.p2p.seed.SeedNodeAddressesTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
